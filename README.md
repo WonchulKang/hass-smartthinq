@@ -20,7 +20,7 @@ Here's how to use this:
 
 2. Navigate to the [WideQ][] directory. You can either use the copy installed by Home Assistant, or clone it separately by typing something like:
 
-       $ git clone https://github.com/sampsyo/wideq.git
+       $ git clone https://github.com/WonchulKang/wideq.git
        $ cd wideq
 
    Authenticate with the SmartThinQ service to get a refresh token by running the WideQ example script. (Eventually, I would like to add a feature to the Home Assistant component that can let you log in through a UI, but I haven't gotten there yet.) Run this in the `wideq` directory:
